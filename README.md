@@ -1,8 +1,10 @@
 ## PyCommit
 
-#### A tiny toy that helps you write better commit messages.
+#### A tiny toy, it might helps you write better commit messages.
 
 PyCommit is a tiny toy that helps developers write better commit messages. It uses OpenAI to generate commit messages that are clear and concise.
+
+![screenshot](./screenshot.png)
 
 #### How to use PyCommit
 
